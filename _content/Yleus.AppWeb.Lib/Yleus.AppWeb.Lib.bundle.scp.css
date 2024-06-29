@@ -1,0 +1,54 @@
+/* _content/Yleus.AppWeb.Lib/Layout/FooterSite.razor.rz.scp.css */
+ .footer[b-iewo6iu1u2] {
+     /* background-color: #004779; */
+     background-color: var(--COR-PRINCIPAL);
+     color: whitesmoke;
+ }
+
+ [b-iewo6iu1u2] .logo {
+     width: 220px;
+     padding: 5px;
+     background-color: whitesmoke;
+     border: 2px solid whitesmoke;
+     border-radius: 7px;
+ }
+
+ .direitos[b-iewo6iu1u2] {
+     padding: 20px;
+     background-color: #002f51;
+ }
+/* _content/Yleus.AppWeb.Lib/Layout/MainLayout.razor.rz.scp.css */
+[b-on2vrg8mq4] .mainContent {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+[b-on2vrg8mq4] .Carousel {
+    border-radius: 7px;
+}
+/* _content/Yleus.AppWeb.Lib/Layout/NavMenu.razor.rz.scp.css */
+/* ::deep .mud-nav-link-text {
+    margin-left: 0 !important;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+::deep .mud-nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 7px;
+} */
+/* _content/Yleus.AppWeb.Lib/Pages/ProdutoInfo.razor.rz.scp.css */
+[b-it7ti24b63].fotosMini {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+[b-it7ti24b63] .bordaArredondada {
+    border-radius: 7px;
+}
